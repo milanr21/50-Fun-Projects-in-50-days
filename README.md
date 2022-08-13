@@ -2,3 +2,4 @@
 
 1. Jumping Square: https://jumpingsquares.netlify.app/
 2. Hover Board: https://hoverrboard.netlify.app/
+3. Animated SignUp Form: https://animatedsignupform.netlify.app/
